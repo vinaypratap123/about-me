@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vinay pratap
-- 👀 I’m interested in full stack webdevelopment with python
+- 👀 I’m interested in full stack web development with python
 - 🌱 I’m currently learning  django and python
 - �
 - 📫 you can contact me on vinaypratapknj12@gmail.com
